@@ -1,0 +1,10 @@
+flet
+aiogram>=3
+colorama
+instagrapi
+requests
+Pillow
+numpy
+nodriver
+pyTelegramBotAPI
+anticaptchaofficial
